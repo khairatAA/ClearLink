@@ -1,0 +1,87 @@
+/* General css styles */
+
+/* Import font*/
+@import url('https://fonts.googleapis.com/css2?family=Bentham&family=Inter:wght@100&family=Space+Grotesk:wght@300;400;500;600;700&display=swap');
+
+
+/* General styling */
+:root {
+    font-size: 16px;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: "Inter", Helvetica;
+    border: 0;
+    outline: none;
+}
+
+html{
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    /* margin-left: 0px;
+    margin-right: 100px; */
+    padding: 1.5rem 4%;
+}
+
+/* Buttons */
+.btn-white {
+    all: unset;
+    align-items: center;
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #98A2B3;
+    border-radius: 100px;
+    box-shadow: 0px 1px 2px 0px rgba(16, 24, 40, 0.05);
+    box-sizing: border-box;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 4px;
+    justify-content: center;
+    overflow: hidden;
+    padding: 14px 24px;
+    position: relative;
+}
+  
+.text-black {
+    color: #98A2B3;
+    font-family: "Inter", Helvetica;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+}
+  
+.btn-blue {
+    all: unset;
+    align-items: center;
+    background-color: #175CD3;
+    border-radius: 100px;
+    box-shadow: 0px 1px 2px 0px rgba(16, 24, 40, 0.05);
+    box-sizing: border-box;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 4px;
+    justify-content: center;
+    overflow: hidden;
+    padding: 14px 24px;
+    position: relative;
+}
+  
+.text-white {
+    color: #FFFFFF;
+    font-family: "Inter", Helvetica;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    margin-top: -2px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+}
