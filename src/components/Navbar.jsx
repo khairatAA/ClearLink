@@ -1,6 +1,6 @@
 // Navbar section of the web page
 import { DropdownArrow } from "../components/DropdownArrow";
-import clearlink_logo from "../assets/clearlink_logo.svg"
+import clearlink_logo from "../assets/clearlink_logo.svg";
 
 export default function Navbar() {
   return (
