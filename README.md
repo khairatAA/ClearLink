@@ -1,8 +1,16 @@
-# React + Vite
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=reactjs,vite,css,html" />
+  </a>
+</p>
+<h1 align="center">ClearLink</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+This is a static webpage for ClearLink which is a video conferencing app. This webpage is built using React JS for the frontend. ReactJS is a JavaScript framework that allows for reusability of codes and also prevents redundancies.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The web page only supports laptop view at this time.
+
+## To View the Web Page
+
+Click the link <https://clear-link-nu.vercel.app/>
