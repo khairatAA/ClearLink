@@ -24,10 +24,14 @@ html{
     scroll-behavior: smooth;
     /* margin-left: 0px;
     margin-right: 100px; */
-    padding: 1.5rem 4%;
+    /* padding: 1.5rem 4%; */
 }
 
 /* Buttons */
+button {
+    cursor: pointer;
+}
+
 .btn-white {
     all: unset;
     align-items: center;
@@ -44,6 +48,7 @@ html{
     overflow: hidden;
     padding: 14px 24px;
     position: relative;
+    cursor: pointer;
 }
   
 .text-black {
@@ -72,6 +77,7 @@ html{
     overflow: hidden;
     padding: 14px 24px;
     position: relative;
+    cursor: pointer;
 }
   
 .text-white {
