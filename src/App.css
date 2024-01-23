@@ -3,7 +3,7 @@
 
 /* Navbar styling */
 .nav {
-    margin-top: 40px;
+    margin-top: 30px;
     align-items: center;
     background-color: #F2F4F7;
     border: 1px solid;
@@ -11,7 +11,7 @@
     border-radius: 100px;
     display: flex;
     justify-content: space-between;
-    padding: 8px 32px;
+    padding: 6px 32px;
     position: relative;
     width: 95%;
     text-align: center;
@@ -100,7 +100,7 @@
     flex-direction: row;
     justify-content:center;
     align-items: center;
-    padding-top: 96px;
+    padding-top: 50px;
     gap: 30px;
     padding-bottom: 70px;
     padding-left: 140px;
